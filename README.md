@@ -13,5 +13,6 @@ https://github.com/rathodketul/log-analyser.git
 2. Open the project in an STS or Eclipse.
 3. Run the main application by providing command line argument as file name.
 
-![image](https://user-images.githubusercontent.com/6491595/153431438-29809983-23fc-4550-a6d0-08ab1229357d.png)
+![image](https://user-images.githubusercontent.com/6491595/153432081-1be794ff-a060-4a92-82ac-5f8e5f12758a.png)
+
 
